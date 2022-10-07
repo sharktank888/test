@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test name="Regression">
+    <classes>
+      <class name="testCases.submission.Aiming"/>
+      <class name="testCases.submission.Banu"/>
+      <class name="testCases.submission.Eleonora"/>
+      <class name="testCases.submission.Kaned"/>
+      <class name="testCases.submission.Nelson"/>
+      <class name="testCases.submission.Nicky"/>
+      <class name="testCases.submission.Nuntaporn"/>
+      <class name="testCases.submission.Stas"/>
+      <class name="testCases.submission.TechBro"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
